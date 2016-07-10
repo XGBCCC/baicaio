@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (3.2.1)
+  - AMScrollingNavbar (2.0.11)
+  - FDFullscreenPopGesture (1.1)
+  - JBImageBrowserViewController (0.0.2.3):
+    - Kingfisher (~> 2.0)
+  - JDStatusBarNotification (1.5.3)
+  - Kingfisher (2.0.4)
+  - MJRefresh (3.1.0)
+  - MonkeyKing (0.9.1)
+  - Realm (0.98.3):
+    - Realm/Headers (= 0.98.3)
+  - Realm/Headers (0.98.3)
+  - RealmSwift (0.98.3):
+    - Realm (= 0.98.3)
+  - Spring (1.0.3)
+  - YYText (1.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - AMScrollingNavbar (~> 2.0.1)
+  - FDFullscreenPopGesture (= 1.1)
+  - JBImageBrowserViewController
+  - JDStatusBarNotification
+  - MJRefresh
+  - MonkeyKing (~> 0.8)
+  - RealmSwift
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift2`)
+  - YYText
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift2
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 18d5c7b74489de8044e34767f856d1e574f0820e
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Alamofire: f11d8624a05f5d39e0c99309b3e600a3ba64298a
+  AMScrollingNavbar: a278fbd74870e9983bb6318ca3b64011f9571269
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  JBImageBrowserViewController: 5b34bb55472af2b97d8ec41b2785ab910017f92f
+  JDStatusBarNotification: 29413865af11c862c17180610b0f46a21118b412
+  Kingfisher: 8f1ec2c067ade2c549a1a594379b69c4b1ff81ab
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  MonkeyKing: 84d0f711a0e20eb104616d0b393a74efd5d9d9ad
+  Realm: c6a7d00221a2d5177810a674aebd40c5e0b70b0f
+  RealmSwift: d6ecad6e4c2a645d6ac956c2c7e9efb375f39c31
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+  YYText: 29ebca1380349ce9bb8da62c82865254c1f703e3
+
+PODFILE CHECKSUM: 0d60c86fc76aea26fb9b94aa817eac20574f3fd1
+
+COCOAPODS: 1.0.0.beta.3

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C9F648FF16BD6139DB480846D3A2891E47114FDE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "36ED03831454651F7C847BF7A746341E2131A738" : 0,
+    "C9F648FF16BD6139DB480846D3A2891E47114FDE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0CB8D9F8-EC76-4696-992A-AB2E7F77DA22",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "36ED03831454651F7C847BF7A746341E2131A738" : "..\/..\/..\/OpenSource\/YZDisplayViewController",
+    "C9F648FF16BD6139DB480846D3A2891E47114FDE" : "baicaio_code\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "baicaio",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "baicaio\/baicaio.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iThinkerYZ\/YZDisplayViewController",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "36ED03831454651F7C847BF7A746341E2131A738"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/xgbccc\/baicaio.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C9F648FF16BD6139DB480846D3A2891E47114FDE"
+    }
+  ]
+}
